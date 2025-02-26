@@ -1,7 +1,11 @@
 # Valorant-Tool
+
 Tool Features:
+
 1.Will Increase FPS
+
 2.Reduce Delay And Latency
+
 3. Customizes Config.ini
 
 Support Server:
